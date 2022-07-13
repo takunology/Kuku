@@ -1,0 +1,15 @@
+C:\Github\Kuku\KukuApp\bin\Debug\net6.0\KukuApp.exe
+C:\Github\Kuku\KukuApp\bin\Debug\net6.0\KukuApp.deps.json
+C:\Github\Kuku\KukuApp\bin\Debug\net6.0\KukuApp.runtimeconfig.json
+C:\Github\Kuku\KukuApp\bin\Debug\net6.0\KukuApp.dll
+C:\Github\Kuku\KukuApp\bin\Debug\net6.0\KukuApp.pdb
+C:\Github\Kuku\KukuApp\obj\Debug\net6.0\KukuApp.csproj.AssemblyReference.cache
+C:\Github\Kuku\KukuApp\obj\Debug\net6.0\KukuApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Kuku\KukuApp\obj\Debug\net6.0\KukuApp.AssemblyInfoInputs.cache
+C:\Github\Kuku\KukuApp\obj\Debug\net6.0\KukuApp.AssemblyInfo.cs
+C:\Github\Kuku\KukuApp\obj\Debug\net6.0\KukuApp.csproj.CoreCompileInputs.cache
+C:\Github\Kuku\KukuApp\obj\Debug\net6.0\KukuApp.dll
+C:\Github\Kuku\KukuApp\obj\Debug\net6.0\refint\KukuApp.dll
+C:\Github\Kuku\KukuApp\obj\Debug\net6.0\KukuApp.pdb
+C:\Github\Kuku\KukuApp\obj\Debug\net6.0\KukuApp.genruntimeconfig.cache
+C:\Github\Kuku\KukuApp\obj\Debug\net6.0\ref\KukuApp.dll
